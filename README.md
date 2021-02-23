@@ -13,4 +13,10 @@ Lalala
 
 ## How To Contribute
 
+<<<<<<< HEAD
 Hallo Lalalala
+=======
+### Copyright
+
+Git
+>>>>>>> add-copyright
