@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work.
 Add random text
+
+More changes :)
 ## Introduction
 
 ## Purpose
