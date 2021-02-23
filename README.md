@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 Lalala
 
 ## How To Contribute
+
+### Copyright
+
+Git
