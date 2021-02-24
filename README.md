@@ -21,5 +21,5 @@ Hallo Lalalala
 =======
 ### Copyright
 
-Git
+Git. :)
 >>>>>>> add-copyright
