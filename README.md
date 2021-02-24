@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Add random text
+Updating line
 
 More changes :)
 ## Introduction
